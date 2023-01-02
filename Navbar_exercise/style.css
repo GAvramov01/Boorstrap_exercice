@@ -1,0 +1,37 @@
+/* Customise All navbars */
+
+nav {
+    margin-bottom: 30px;
+}
+
+/* Customise Second navbar */
+
+.img-galogo {
+    width: 30px;
+}
+.brand-name {
+    color: #fff;
+}
+
+/* Customise Third navbar */
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+}
+.container ul {
+    display: flex;
+    flex-direction: row;
+}
+.container ul li {
+    padding: 0 10px;
+}
+
+
+
+
+
+
+.fourth {
+    margin: 0;
+}
